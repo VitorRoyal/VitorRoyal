@@ -3,7 +3,7 @@
  
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na USJT.
-- 🌱 Aprendendo mais sobre Java, Spring, PHP, Front-end, NoSQL e AWS.
+- 🌱 Aprendendo mais sobre Java, Spring, PHP, Angular, NoSQL e AWS.
 
 ## Minhas Skills
 
