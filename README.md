@@ -1,9 +1,10 @@
 ## Sobre mim
  Boas-vindas ao meu GitHub!<br>Aqui você encontra um pouco do meu trabalho e dos meus projetos!
  
+ - 🚀 Desenvolvedor do Bradesco Expresso.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na USJT.
-- 🌱 Aprendendo mais sobre Java, Spring, PHP, Angular, NoSQL e AWS.
+- 🌱 Aprendendo mais sobre Java, Spring, PHP, Front-end, NoSQL e AZURE.
 
 ## Minhas Skills
 
